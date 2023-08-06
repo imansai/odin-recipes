@@ -10,3 +10,44 @@ body {
     font-family: "Poppins", Verdana, "Geneva", Tahoma, sans-serif;
 }
 
+.page-title {
+    text-align: center;
+    border-bottom: 0.25rem solid #FFC035;
+    width:400px;
+    margin: 20px auto;
+    font-size: 50px;
+}
+
+.recipe-list ul{
+    list-style-type: none;
+}
+
+.recipe-list {
+    width: 1300px;
+    margin:0 auto;
+    
+}
+
+.recipe-list-card {
+    display: inline-block;
+    margin: 10px 20px;
+}
+
+.recipe-list-card-img {
+    width: 364px;
+    height: 242px;
+}
+
+.recipe-list-card-title {
+    font-size:25px;
+    border-bottom: 0.25rem solid #FFC035;
+
+}
+
+.recipe-list-card-button {
+    background-color: #FFC035;
+    color:#fff;
+    font-weight: 700px;
+    padding: 10px 30px;
+    text-decoration: none;
+}
